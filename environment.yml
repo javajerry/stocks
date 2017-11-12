@@ -22,3 +22,4 @@ dependencies:
         - moviepy
         - tensorflow
         - git+https://github.com/fchollet/keras.git
+	- yahoo_finance
