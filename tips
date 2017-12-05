@@ -16,3 +16,5 @@ FAST: %K is set to 1.  We choose the period and the %D.
 SLOW: %K is set to 3.  We choose the period and the %D.
 FULL: We choose the period, the %K and the %D.
 Since the setting we use is 12,3,3 (Period= 12, %K= 3, %D= 3), we would call this a SLOW stochastics.
+
+Hammer Candlesticks : shadow is atleast 2x the body.longer the shadow, good chances of the reversal
